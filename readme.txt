@@ -12,6 +12,8 @@ Serve perfectly optimized images from the fastest WordPress CDN plugin. Image ho
 
 == Description ==
 
+Line Notify with Seed Confirm Pro helps the sellers perceive the the notified order via the seed confirm
+
 == Installation ==
 
 = Manual installation =

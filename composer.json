@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "files": [
+      "class-line-notify.php",
+      "class-seed-confirm-pro.php",
+      "class-line-page.php",
+      "plugins/plugin-update-checker/plugin-update-checker.php"
+    ]
+  },
+  "require": {
+    "kittinan/php-line-notify": "^0.5.0"
+  }
+}

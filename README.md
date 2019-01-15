@@ -14,13 +14,13 @@ Serve perfectly optimized images from the fastest WordPress CDN plugin. Image ho
 
 - Line Notify with Seed Confirm Pro helps the sellers perceive the the notified order via the seed confirm
 
-## Installation ==
+## Installation
 
-- 1. Download from [https://github.com/gapgag55/line-notify-seed
-- 2. Go to plugin -> Add new
-- 3. Click the upload button
-- 4. Select the plugin location
-- 5. That's it!
+1. Download from [https://github.com/gapgag55/line-notify-seed
+2. Go to plugin -> Add new
+3. Click the upload button
+4. Select the plugin location
+5. That's it!
 
 ## Changelog 
 

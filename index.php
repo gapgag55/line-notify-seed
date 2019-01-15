@@ -3,7 +3,7 @@
  * Plugin Name: Line Notify with Seed Confirm Pro
  * Plugin URI:
  * Description: Notify Business Owner via Line and integrated with Seed Comfirm
- * Version: 1.0.2
+ * Version: 1.0.0
  * Author: Kopkap
  * Author URI:
  * Text Domain: line-notify-seed
